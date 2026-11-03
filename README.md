@@ -2,7 +2,7 @@
 
 A responsive one-page portfolio built with semantic HTML5 and CSS (Flexbox and Grid).
 
-**Live site:** https://sindhura2008.github.io/REPO-NAME/
+**Live site:** file:///C:/Users/Sindhura/Downloads/Sindhura%20Sadhu%20-%20Portfolio%20Preview.html
 
 ## Files
 - `index.html` - page structure (header, nav, main, sections, footer)
